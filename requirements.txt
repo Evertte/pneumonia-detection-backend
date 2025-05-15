@@ -3,4 +3,4 @@ uvicorn
 tensorflow
 numpy
 pillow
-python-multipart  # for handling image uploads
+python-multipart 
